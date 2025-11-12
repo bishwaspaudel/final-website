@@ -19,7 +19,7 @@ export const PORTFOLIO_ITEMS: PortfolioItem[] = [
     { id: 3, title: 'Data Visualization for Public Health Trends', category: 'Computer Science', description: 'An interactive dashboard to visualize public health data, built with D3.js and React.', imageUrl: 'https://picsum.photos/seed/cs1/600/400', link: '#', type: 'Demo' },
     { id: 4, title: 'Research Paper on Telemedicine Adoption', category: 'Research', description: 'A comprehensive literature review and analysis of the factors influencing telemedicine adoption post-pandemic.', imageUrl: 'https://picsum.photos/seed/research1/600/400', link: '#', type: 'PDF' },
     { id: 5, title: 'Network Traffic Analysis for Anomaly Detection', category: 'Cybersecurity', description: 'Implemented an IDS using machine learning to detect anomalies in network traffic patterns.', imageUrl: 'https://picsum.photos/seed/cyber2/600/400', link: '#', type: 'GitHub' },
-    { id: 6, title: 'Computational Biology: Protein Folding Simulation', category: 'Computer Science', description: 'A simulation project exploring protein folding algorithms.', imageUrl: 'https://picsum.photos/seed/cs2/600/400', link: '#', type: 'GitHub' },
+    { id: 6, title: 'Computational Biology:  Folding Simulation', category: 'Computer Science', description: 'A simulation project exploring protein folding algorithms.', imageUrl: 'https://picsum.photos/seed/cs2/600/400', link: '#', type: 'GitHub' },
 ];
 
 export const PROJECTS: Project[] = [
